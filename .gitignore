@@ -1,0 +1,7 @@
+./node_modules
+
+./har_files
+
+.register.js
+
+.script.js

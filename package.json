@@ -1,0 +1,17 @@
+{
+  "name": "k6-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "choco": "^0.2.1",
+    "k6": "^0.0.0",
+    "k6-html-reporter": "^1.0.5"
+  }
+}
